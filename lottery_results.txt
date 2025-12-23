@@ -1,0 +1,3 @@
+Eliminated: ID 3, Name: Rehan, Contact: Shibpur
+Eliminated: ID 1, Name: Neha, Contact: Burnpur
+Winner: ID 2, Name: Ram, Contact: Asansol
