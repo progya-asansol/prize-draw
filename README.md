@@ -2,7 +2,7 @@
 
 
 
-A simple Java console application to randomly select winners from a list of participants.  
+A Java console application to randomly select winners from a list of participants.  
 
 Perfect for giveaways, lucky draws, competitions, or classroom activities.
 
