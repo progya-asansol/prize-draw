@@ -1,4 +1,4 @@
-\# 🎯 Random Prize Draw (Java)
+\#  Random Prize Draw (Java)
 
 
 
@@ -12,17 +12,17 @@ Perfect for giveaways, lucky draws, competitions, or classroom activities.
 
 
 
-\## 📌 Features
+\##  Features
 
-\- ✅ Accepts any number of participants
+\-  Accepts any number of participants
 
-\- ✅ Lets you choose the number of winners
+\-  Lets you choose the number of winners
 
-\- ✅ Ensures no duplicate winners
+\-  Ensures no duplicate winners
 
-\- ✅ Uses `Collections.shuffle()` for fairness
+\-  Uses `Collections.shuffle()` for fairness
 
-\- ✅ Runs directly in the VS Code terminal
+\-  Runs directly in the VS Code terminal
 
 
 
@@ -30,7 +30,7 @@ Perfect for giveaways, lucky draws, competitions, or classroom activities.
 
 
 
-\## 🚀 How to Run in VS Code
+\##  How to Run in VS Code
 
 
 
